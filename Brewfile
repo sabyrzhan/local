@@ -11,3 +11,5 @@ brew install --cask stats
 brew install --cask homebrew/cask/transmission
 brew install --cask iterm2
 brew install --cask vlc
+
+brew install httpie
