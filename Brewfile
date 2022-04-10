@@ -12,5 +12,6 @@ brew install --cask homebrew/cask/transmission
 brew install --cask iterm2
 brew install --cask vlc
 brew install --cask tunnelblick
+brew install --cask abyssoft-teleport
 
 brew install httpie
