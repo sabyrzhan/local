@@ -1,6 +1,7 @@
 # Azul Zulu artifacts
 brew tap mdogan/zulu
 
+brew install --cask zulu-jdk11
 brew install --cask zulu-jdk17
 brew install --cask lulu
 brew install --cask visual-studio-code
@@ -13,5 +14,14 @@ brew install --cask iterm2
 brew install --cask vlc
 brew install --cask tunnelblick
 brew install --cask abyssoft-teleport
+brew install --cask hiddenbar
+brew install --cask tor-browser
 
 brew install httpie
+brew install watch
+brew install ansible
+brew install terraform
+brew install aws-sam-cli
+brew install maven
+brew install aria2
+brew install youtube-dl
