@@ -26,3 +26,7 @@ brew install maven
 brew install aria2
 brew install youtube-dl
 brew install helm
+
+# eksctl tool
+brew tap weaveworks/tap
+brew install weaveworks/tap/eksctl
