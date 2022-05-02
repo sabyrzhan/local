@@ -16,6 +16,7 @@ brew install --cask tunnelblick
 brew install --cask abyssoft-teleport
 brew install --cask hiddenbar
 brew install --cask tor-browser
+brew install --cask ngrok
 
 brew install httpie
 brew install watch
