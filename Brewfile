@@ -28,6 +28,7 @@ brew install aria2
 brew install youtube-dl
 brew install helm
 brew install composer
+brew install minikube
 
 # eksctl tool
 brew tap weaveworks/tap
