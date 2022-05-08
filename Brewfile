@@ -29,6 +29,7 @@ brew install youtube-dl
 brew install helm
 brew install composer
 brew install minikube
+brew install jmeter
 
 # eksctl tool
 brew tap weaveworks/tap
