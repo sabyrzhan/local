@@ -1,8 +1,9 @@
 # Azul Zulu artifacts
 brew tap mdogan/zulu
-
 brew install --cask zulu-jdk11
 brew install --cask zulu-jdk17
+brew install --cask mdogan/zulu/zulu-mc
+
 brew install --cask lulu
 brew install --cask visual-studio-code
 brew install --cask karabiner-elements
