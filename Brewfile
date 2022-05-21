@@ -32,6 +32,7 @@ brew install helm
 brew install composer
 brew install minikube
 brew install jmeter
+brew install jenv
 
 # eksctl tool
 brew tap weaveworks/tap
