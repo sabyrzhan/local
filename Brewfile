@@ -1,5 +1,6 @@
 # Azul Zulu artifacts
 brew tap mdogan/zulu
+brew install --cask zulu-jdk8
 brew install --cask zulu-jdk11
 brew install --cask zulu-jdk17
 brew install --cask mdogan/zulu/zulu-mc
