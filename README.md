@@ -14,3 +14,9 @@
 From https://safjan.com/top-popular-zsh-plugins-on-github-2021/
 
 1. zsh-autosuggestions - https://github.com/zsh-users/zsh-autosuggestions
+
+## `jenv` plugins
+```
+jenv enable-plugin maven
+jenv enable-plugin export
+```
