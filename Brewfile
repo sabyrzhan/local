@@ -33,6 +33,7 @@ brew install composer
 brew install minikube
 brew install jmeter
 brew install jenv
+brew install jbangdev/tap/jbang
 
 # eksctl tool
 brew tap weaveworks/tap
