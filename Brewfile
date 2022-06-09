@@ -20,11 +20,15 @@ brew install --cask hiddenbar
 brew install --cask tor-browser
 brew install --cask ngrok
 brew install --cask miniconda
+brew install --cask vagrant
+brew install --cask virtualbox
+brew install --cask virtualbox-extension-pack
 
 brew install httpie
 brew install watch
 brew install ansible
 brew install terraform
+brew install awscli
 brew install aws-sam-cli
 brew install maven
 brew install aria2
