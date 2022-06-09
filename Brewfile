@@ -1,9 +1,9 @@
 # Azul Zulu artifacts
-tap mdogan/zulu
+tap 'mdogan/zulu'
 cask zulu-jdk8
 cask zulu-jdk11
 cask zulu-jdk17
-cask mdogan/zulu/zulu-mc
+cask 'mdogan/zulu/zulu-mc'
 
 cask lulu
 cask visual-studio-code
@@ -11,7 +11,7 @@ cask karabiner-elements
 cask multipass
 cask tor-browser
 cask stats
-cask homebrew/cask/transmission
+cask 'homebrew/cask/transmission'
 cask iterm2
 cask vlc
 cask tunnelblick
@@ -38,8 +38,8 @@ brew composer
 brew minikube
 brew jmeter
 brew jenv
-brew jbangdev/tap/jbang
+brew 'jbangdev/tap/jbang'
 
 # eksctl tool
-tap weaveworks/tap
-brew weaveworks/tap/eksctl
+tap 'weaveworks/tap'
+brew 'weaveworks/tap/eksctl'
