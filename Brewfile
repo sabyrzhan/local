@@ -28,8 +28,11 @@ brew 'watch'
 brew 'ansible'
 brew 'terraform'
 brew 'awscli'
+
+# aws-sam-cli
 tap 'aws/tap'
 brew 'aws-sam-cli'
+
 brew 'maven'
 brew 'aria2'
 brew 'youtube-dl'
@@ -38,7 +41,10 @@ brew 'composer'
 brew 'minikube'
 brew 'jmeter'
 brew 'jenv'
-brew 'jbangdev/tap/jbang'
+
+# jbang
+tap 'jbangdev/jbang'
+brew 'jbang'
 
 # eksctl tool
 tap 'weaveworks/tap'
