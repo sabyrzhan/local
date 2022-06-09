@@ -22,6 +22,7 @@ cask 'miniconda'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
+cask 'rectangle'
 
 brew 'httpie'
 brew 'watch'
