@@ -43,8 +43,7 @@ brew 'jmeter'
 brew 'jenv'
 
 # jbang
-tap 'jbangdev/jbang'
-brew 'jbang'
+brew 'jbangdev/tap/jbang'
 
 # eksctl tool
 tap 'weaveworks/tap'
