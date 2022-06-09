@@ -1,45 +1,45 @@
 # Azul Zulu artifacts
-brew tap mdogan/zulu
-brew install --cask zulu-jdk8
-brew install --cask zulu-jdk11
-brew install --cask zulu-jdk17
-brew install --cask mdogan/zulu/zulu-mc
+tap mdogan/zulu
+cask zulu-jdk8
+cask zulu-jdk11
+cask zulu-jdk17
+cask mdogan/zulu/zulu-mc
 
-brew install --cask lulu
-brew install --cask visual-studio-code
-brew install --cask karabiner-elements
-brew install --cask multipass
-brew install --cask tor-browser
-brew install --cask stats
-brew install --cask homebrew/cask/transmission
-brew install --cask iterm2
-brew install --cask vlc
-brew install --cask tunnelblick
-brew install --cask abyssoft-teleport
-brew install --cask hiddenbar
-brew install --cask tor-browser
-brew install --cask ngrok
-brew install --cask miniconda
-brew install --cask vagrant
-brew install --cask virtualbox
-brew install --cask virtualbox-extension-pack
+cask lulu
+cask visual-studio-code
+cask karabiner-elements
+cask multipass
+cask tor-browser
+cask stats
+cask homebrew/cask/transmission
+cask iterm2
+cask vlc
+cask tunnelblick
+cask abyssoft-teleport
+cask hiddenbar
+cask tor-browser
+cask ngrok
+cask miniconda
+cask vagrant
+cask virtualbox
+cask virtualbox-extension-pack
 
-brew install httpie
-brew install watch
-brew install ansible
-brew install terraform
-brew install awscli
-brew install aws-sam-cli
-brew install maven
-brew install aria2
-brew install youtube-dl
-brew install helm
-brew install composer
-brew install minikube
-brew install jmeter
-brew install jenv
-brew install jbangdev/tap/jbang
+brew httpie
+brew watch
+brew ansible
+brew terraform
+brew awscli
+brew aws-sam-cli
+brew maven
+brew aria2
+brew youtube-dl
+brew helm
+brew composer
+brew minikube
+brew jmeter
+brew jenv
+brew jbangdev/tap/jbang
 
 # eksctl tool
-brew tap weaveworks/tap
-brew install weaveworks/tap/eksctl
+tap weaveworks/tap
+brew weaveworks/tap/eksctl
