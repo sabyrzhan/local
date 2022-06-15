@@ -42,6 +42,7 @@ brew 'composer'
 brew 'minikube'
 brew 'jmeter'
 brew 'jenv'
+brew 'jesseduffield/lazydocker/lazydocker'
 
 # jbang
 brew 'jbangdev/tap/jbang'
