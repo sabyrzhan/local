@@ -1,6 +1,12 @@
 # local
 🖥 📝 ▶️ My local machine settings and app configurations
 
+## Brew
+`Brewfile` contains all the required tools for development. To install execute following cmd in CLI in this directory:
+```$shell
+brew bundle
+```
+
 ## AppStore Apps
 1. Telegram
 2. WhatsApp
