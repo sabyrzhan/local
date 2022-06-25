@@ -23,6 +23,7 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'rectangle'
+cask 'monitorcontrol'
 
 brew 'httpie'
 brew 'watch'
