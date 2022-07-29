@@ -44,6 +44,7 @@ brew 'minikube'
 brew 'jmeter'
 brew 'jenv'
 brew 'jesseduffield/lazydocker/lazydocker'
+brew 'bash-snippets'
 
 # jbang
 brew 'jbangdev/tap/jbang'
