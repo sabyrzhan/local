@@ -31,6 +31,7 @@ brew 'terraform'
 brew 'awscli'
 brew 'kubectx'
 brew 'k9s'
+brew 'yt-dlp'
 
 # aws-sam-cli
 tap 'aws/tap'
