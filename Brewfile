@@ -23,6 +23,7 @@ cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'rectangle'
 cask 'monitorcontrol'
+cask 'postman'
 
 brew 'httpie'
 brew 'watch'
