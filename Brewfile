@@ -3,6 +3,7 @@ tap 'mdogan/zulu'
 cask 'zulu-jdk8'
 cask 'zulu-jdk11'
 cask 'zulu-jdk17'
+cask 'zulu-jdk19'
 cask 'mdogan/zulu/zulu-mc'
 
 cask 'lulu'
@@ -33,6 +34,7 @@ brew 'awscli'
 brew 'kubectx'
 brew 'k9s'
 brew 'yt-dlp'
+brew 'gsed'
 
 # aws-sam-cli
 tap 'aws/tap'
