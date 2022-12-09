@@ -35,6 +35,10 @@ brew 'kubectx'
 brew 'k9s'
 brew 'yt-dlp'
 brew 'gsed'
+brew 'tcpfllow'
+brew 'warp'
+brew 'bat'
+brew 'eth-p/software/bat-extras'
 
 # aws-sam-cli
 tap 'aws/tap'
